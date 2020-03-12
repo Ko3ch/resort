@@ -12,3 +12,8 @@ h1  {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
+.contact    {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+    color: snow;
+}
