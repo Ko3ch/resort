@@ -10,8 +10,29 @@ body    {
 .text   {
     color: snow;
 }
-h1  {
+h3  {
     text-align: center;
-    font-family: cursive;
-    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.content    {
+    background-color: rgb(82, 126, 143);
+}
+.links  {
+    float: right;
+    background-color: snow;
+    width: 30%;
+}
+.link-text  {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(82, 126, 143);
+}
+.about  {
+    font-family: 'Courier New', Courier, monospace;
+    color: snow;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
