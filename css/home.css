@@ -6,6 +6,9 @@ h1  {
 }
 body    {
     background-color: skyblue;
+    background-image: url(https://media.mnn.com/assets/images/2014/04/palm-tree-intro.jpg.653x0_q80_crop-smart.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .text   {
     color: snow;

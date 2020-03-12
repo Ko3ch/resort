@@ -1,0 +1,14 @@
+h1  {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: teal;
+    color: snow;
+}
+.column    {
+    width: 350.px;
+    background-color: steelblue;
+    color: snow;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
